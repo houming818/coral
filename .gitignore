@@ -1,0 +1,8 @@
+*.pyc
+*.env
+.idea
+app_tests
+node_modules
+frontend/pc2/.vscode
+v3logs
+celerybeat.pid
