@@ -2,7 +2,7 @@
 
 ## 简介
 
-Coral是一个基于蓝鲸7.1的SaaS服务，集成了django的rest_framework和\*\*-ui，通过项目可以快速从Coral开始一个蓝鲸SaaS应用
+**Coral**是一个基于蓝鲸7.1的SaaS服务，集成了django的rest_framework和\*\*-ui，通过项目可以快速从Coral开始一个蓝鲸SaaS应用
 
 [蓝鲸SaaS开发 新建项目Coral](https://www.grepcode.cn/2023/11/blueking_dev_01/)
 
