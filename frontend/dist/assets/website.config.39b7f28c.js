@@ -1,0 +1,1 @@
+const e="/static/assets/logo.1ea765ca.png",o="/static/assets/account-logo.0a6f895e.png",t=Object.freeze({title:"NaiveUiAdmin",logo:e,loginImage:o,loginDesc:"Naive Ui Admin\u4E2D\u540E\u53F0\u524D\u7AEF/\u8BBE\u8BA1\u89E3\u51B3\u65B9\u6848"});export{t as w};
