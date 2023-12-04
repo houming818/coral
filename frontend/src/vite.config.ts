@@ -24,6 +24,7 @@ export default ({ command, mode }: ConfigEnv): UserConfig => {
   const viteEnv = wrapperEnv(env);
   const { VITE_PUBLIC_PATH, VITE_PORT, VITE_GLOB_PROD_MOCK, VITE_PROXY } =
     viteEnv;
+  console.log('viteEnv', viteEnv);
   const prodMock = VITE_GLOB_PROD_MOCK;
   const isBuild = command === 'build';
   return {

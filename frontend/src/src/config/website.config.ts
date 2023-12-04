@@ -1,9 +1,9 @@
-import logoImage from '@/assets/images/logo.png';
-import loginImage from '@/assets/images/account-logo.png';
+import logoImage from '@/assets/images/coral.png';
+import loginImage from '@/assets/images/coral.png';
 
 export const websiteConfig = Object.freeze({
-  title: 'NaiveUiAdmin',
+  title: '珊瑚虫',
   logo: logoImage,
   loginImage: loginImage,
-  loginDesc: 'Naive Ui Admin中后台前端/设计解决方案',
+  loginDesc: '珊瑚虫,强大的蓝鲸SaaS插件',
 });
