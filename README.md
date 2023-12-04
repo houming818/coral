@@ -8,6 +8,9 @@
 
 ## CHANGE_LOG 版本日志
 
+v0.0.2:
+- [ ] 获取蓝鲸用户登录信息
+
 v0.0.1:
 - [x] django项目的api hello world
-- [ ] django项目的frontend hello world
+- [x] django项目的frontend hello world

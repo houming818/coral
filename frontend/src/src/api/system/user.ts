@@ -26,6 +26,7 @@ export function getUserInfo() {
  * @description: 用户登录
  */
 export function login(params) {
+  //raise Error('login has been deprecated');
   return http.request<BasicResponseModel>(
     {
       url: '/login',
@@ -42,6 +43,7 @@ export function login(params) {
  * @description: 用户修改密码
  */
 export function changePassword(params, uid) {
+  //raise Error('changePassword has been deprecated');
   return http.request(
     {
       url: `/user/u${uid}/changepw`,
